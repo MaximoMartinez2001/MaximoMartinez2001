@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Maximo Martinez. Im 22 years old. 
-- 👀 I’m interested in data base.
-- 🌱 I’m currently learning systems analyst.
-- 💞️ I’m looking to collaborate on any company.
-- 📫 How to reach me email, phone. 
+- 👋 Hola! soy @Maximo Martinez. Mi edad actual es de 22 años. 
+- 👀 Estoy interesado en BackEnd y Data base con futuro aprender mas conocimiento de programacion.
+- 🌱 Actualmente estoy estudiando la carrera Analista de Sistemas.
+- Estoy interesado en emperesas o companias, se trabajar en grupo. 
+- 📫 Mis contactos son maximo.martinez1@hotmail.com // +542284559447.
 
 
 
